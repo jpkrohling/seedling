@@ -6,7 +6,7 @@ Seedling is a web-based tool for building custom OTel Collector builds.
 
 This is still an early experiment, but here's what we have in mind for this project:
 
-* List of components, such receivers, processors, connectors, exporters, and extensions, coming from different sources
+* List of components, such as receivers, processors, connectors, exporters, and extensions, coming from different sources
 * Ability to select the components and have a manifest created for it
 * Ability to create a distribution based on an OTel Collector configuration file
 
